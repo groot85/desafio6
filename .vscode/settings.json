@@ -1,0 +1,9 @@
+{
+    "azureFunctions.projectSubpath": "serverless-full-stack-apps-azure-sql\\azure-static-web-app\\api\\python",
+    "azureFunctions.deploySubpath": "serverless-full-stack-apps-azure-sql\\azure-static-web-app\\api\\python",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen"
+}
